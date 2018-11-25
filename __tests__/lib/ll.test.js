@@ -43,6 +43,6 @@ describe('Linked List', () => {
 
     console.log(list);
 
-  })
+  });
 
 });
